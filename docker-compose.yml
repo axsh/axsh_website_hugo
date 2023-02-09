@@ -4,7 +4,7 @@ services:
         image: klakegg/hugo:0.74.3-ubuntu
         volumes:
             - ".:/src"
-        entrypoint: bash
+        entrypoint: ["hugo", "server"]
         ports:
             - "1313:1313"
         tty: true
