@@ -1,9 +1,10 @@
 ---
-title: 'Our Difference'
-weight: 2
-background: ''
-button: 'About Us'
-buttonLink: 'about'
+title: 'About Us'
+weight: 1
+background: 'images/kevin-bhagat-461952-unsplash.jpg'
+button: 'Our Work'
+buttonLink: 'axsh'
 ---
 
-Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. ipsum dolor sit amet, et essent mediocritatem quo,
+株式会社あくしゅでは、インフラエンジニアでありながら、ソフトウェアに非常に強いのが特徴です。
+ソフトウェアは書けるが、インフラについては詳しくない、またはインフラに詳しいが、ソフトウェアは書けないといったギャップを埋めることができます。
