@@ -16,3 +16,15 @@ heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
 <div>
 {{< content-strip-center "/pages/about" "content3" >}}
 </div>
+<div>
+{{< content-strip-center "/pages/about" "content4" >}}
+</div>
+<div>
+{{< content-strip-center "/pages/about" "content5" >}}
+</div>
+<div>
+{{< content-strip-center "/pages/about" "content6" >}}
+</div>
+<div>
+{{< content-strip-center "/pages/about" "content7" >}}
+</div>
