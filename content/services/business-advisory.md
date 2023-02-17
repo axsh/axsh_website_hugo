@@ -1,5 +1,5 @@
 ---
-title: 'Business Advisory'
+title: 'Solutions'
 date: 2018-11-28T15:14:39+10:00
 icon: 'services/service-icon-2.png'
 featured: true
@@ -9,6 +9,7 @@ heroSubHeading: 'Expert advice and guidance when you need it most.'
 heroBackground: 'services/service2.jpg'
 ---
 
+ソリューションの紹介ページです。多くの会社様とコラボレーションをおこなってまいりました。その軌跡を紹介いたします。
 Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
 ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
 ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada

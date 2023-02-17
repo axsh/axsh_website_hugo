@@ -1,5 +1,5 @@
 ---
-title: 'Giving Back'
+title: 'Toward Digital Twin'
 weight: 3
 date: 2018-12-06T09:29:16+10:00
 background: ''
@@ -8,4 +8,4 @@ button: 'Contact Us'
 buttonLink: 'contact'
 ---
 
-Theres no limits, Lorem ipsum dolor sit amet, et essent mediocritatem quo, choro volumus oporteat an mei. Numquam dolores mel eu, mea docendi omittantur.
+物理的なものを仮想にしてソフトウエアで制御する。ソフトウエアから導かれたものを物理的に実現する。このプロセスを実現させる技術を持った会社として、Digital Twin向けのプロダクトを提供いたします。

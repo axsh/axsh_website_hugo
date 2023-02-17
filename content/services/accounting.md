@@ -1,5 +1,5 @@
 ---
-title: 'Accounting'
+title: 'Careers'
 date: 2018-11-18T12:33:46+10:00
 icon: 'services/service-icon-1.png'
 draft: false
@@ -9,6 +9,8 @@ heroHeading: 'Accounting'
 heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
 heroBackground: 'services/service1.jpg'
 ---
+
+人材募集のページです。報酬や休暇など条件面の情報はもとより、会社が欲しい人材などの情報もここに記載されています。
 
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
