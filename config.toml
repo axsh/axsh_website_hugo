@@ -34,7 +34,7 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
 	name = "Axsh"
-	url = "/axsh/"
+	url = "/about/"
     weight = 1
 
 [[menu.main]]
