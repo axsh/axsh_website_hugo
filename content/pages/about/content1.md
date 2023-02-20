@@ -6,4 +6,4 @@ background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
 align: right
 ---
 
-あくしゅはネットワーク分野に注力した技術集団です。
+## あくしゅはネットワーク分野に注力した技術集団です
