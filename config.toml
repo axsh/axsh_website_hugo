@@ -39,17 +39,17 @@ theme = "hugo-hero-theme"
 
 [[menu.main]]
     name = "Products"
-    url = "/products/"
+    url = "/services/products/"
     weight = 2
 
 [[menu.main]]
     name = "Solutions"
-    url = "/solutions/"
+    url = "/services/solutions/"
     weight = 3
 
 [[menu.main]]
     name = "Careers"
-    url = "/careers/"
+    url = "/services/careers/"
     weight = 4
 [[menu.main]]
     name = "Contact"

@@ -12,6 +12,7 @@ heroBackground: 'services/service1.jpg'
 
 人材募集のページです。報酬や休暇など条件面の情報はもとより、会社が欲しい人材などの情報もここに記載されています。
 
+
 Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
 de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
 crimen habet Priamum nec.
