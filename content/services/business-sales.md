@@ -3,13 +3,14 @@ title: 'Products'
 date: 2018-11-28T15:15:26+10:00
 icon: 'services/service-icon-3.png'
 featured: true
+weight: 10
 draft: false
 heroHeading: 'Business Sales'
 heroSubHeading: 'We can help value your business and prepare it for sale.'
 heroBackground: 'services/service1.jpg'
 ---
 
-人材募集のページです。報酬や休暇など条件面の情報はもとより、会社が欲しい人材などの情報もここに記載されています。
+自社製品紹介のページです。DiitalTwin時代の見据えたLiquidMetal商品の紹介をいたします
 
 - Dente reponere dixere referre excessitque seque
 - Tacui si cui inde haec ubi trepidas
