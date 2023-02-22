@@ -5,62 +5,43 @@ icon: 'services/service-icon-2.png'
 featured: true
 weight: 20
 draft: false
-heroHeading: 'Business Advisory'
-heroSubHeading: 'Expert advice and guidance when you need it most.'
+heroHeading: 'Solutions'
+heroSubHeading: '.'
 heroBackground: 'services/service2.jpg'
 ---
 
-ソリューションの紹介ページです。多くの会社様とコラボレーションをおこなってまいりました。その軌跡を紹介いたします。
-Lorem markdownum, dictis umbrosum dextrum, Lelegeia quamquam distantes pares
-ignisque quaerit dederat gemino Aethiopesque [caelo](#inque-ne-collocat)
-ulciscitur est. Morte [lugebere](#esse-ferro-nisi) conatur [Pallada
-quaerentes](#pia-non) tulit, **ignis vagatur undis**, latitantem ignemque non
-laevo. Terras seu favoni tectas movit hunc motuque damno tutoque quattuor. Leto
-duo arbore, tua paelice regnis scopulis ut Lachne Menoetae nigra repugnat
-Coroneus est qui viscere barbariam **seris**. Vim in quamquam colla ventura
-remos, Procne mane atque sic solent [non caelestibus](#iuvabat-limumque).
+ソリューションの紹介ページです。多くの会社様とコラボレーションをおこなってまいりました。その軌跡を紹介いたします。  
+<br>
+<br>
 
-## Inter pectore totidem
 
-Presserat [transitque inde](#diversa-iam-inter). Vel montes tum cohors Tityos
-lassavit nihil oracula exiguo ligatis.
+## Solution内容
+1. システム開発
+2. システムコンサルティング、上流設計、開発、運用までワンストップでご提供
+3. アプリケーション開発
+4. スマートフォンアプリ開発、VR/AR、IoTデバイス、Webサイト構築
+5. クラウド移行
+6. オンプレミス(自社所有サーバー）からクラウドへの移行
+7. 研究開発
+8. プロジェクトマネジメント
 
-## Novis hunc qua erat caecisque
+## 主要なお客様
+1. NTTデータ
+2. NTT PCコミュニケーションズ
+3. 大阪大学
+4. 大阪市立大学
+5. 国立情報学研究所（NII)
+6. 産業技術大学院大学
+7. JAXA
+8. 東京海洋大学
+9. 風に立つライオン基金
+10. LTE-X(ワイヤレスゲート子会社)
+11. 京セラコミュニケーションシステムズ
+12. サイオステクノロジー
+13. zero to one
+14. TIS
+15. PCフェーズ
+16. ヤマトシステム開発
 
-Et Aeneae, nivosos magos, donata in quod cum [terris](#loco-aris), cumque solum,
-manibus auro moenibus glaebas. Manus incaluere. Nunc audiat teneat dextra,
-finivit cui male venit moves! Senior et niger tepido parenti fuit, in ponit
-spectemur et opto speret. Ferum Neptunus tergore.
 
-Nunc erant super: sacra cingebant tandem: rogabam terras, ripa. Cum est scire
-est increpat, leaena ipsa venae me minus casusve tauri. Poscis sacrorum
-_congerit currus_ Hippotades poenas. Non capta, **saturatos tecti** dum versata,
-cum Phineu, nomina dataque rubenti ignorant non lymphata, ara.
-
-## Naiades latuere rubenti tendere os Phrygum eminus
-
-Respondit et tela viae illas saetas prodidit facta novitate, iurare trahitur
-morte tecta [pugnabo](#se). Est age, paelicis vestigia tremor capillis carere
-formae ne ait modo. Considere suam anguicomae neque Amphitrite dixit
-[quamvis](#ardore-ruborem-nutrit) meri convicia et dotem, tunc aderis metu ego
-habenas nec domum humo? Esse orba suo pedem tandem, pignus qui me tellus a
-Acmona male exuere ecce; [pelagi](#sed), Procnen causam? Carpe vertice tua etiam
-interdum detinet nec tanta capillos spolieris tutoque ventos _Iunonis_ Iovis
-retemptat _rexit generumque_ fides.
-
-## Statuunt nais inponere tamen duodena aemulus mille
-
-Feriat humilis recuset parum! Bitumine nati indignatus; longa nec vulnus cognita
-pondere, incola se non aut, frangitur! Cavis resoluta: ilia ardeat terraeque
-nova, adhuc! Ferox fertque tellus Iunonis: [virgineos sum](#tenues) contigerant
-terga pater, quod ore nam praecipiti levatus virilia Hylen. Inhaesit mucro,
-superum moveri late rota rapi avis amans _toto_, carpere reclinis pietas
-habenas, ne dici Canenti.
-
-1. Induruit huc grave simili
-2. Praecincti natos
-3. Ad dedit parentem
-4. Linguae pendent
-
-Non sensu est fecerat his rerum insignia verba, aeno nubila curvi. Tutus sibi
-isset; nec non ille vero abstulit, ite est. Digitoque ora ego aethera, comas?
+![代替テキスト](/images/sample.png)

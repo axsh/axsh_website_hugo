@@ -2,8 +2,9 @@
 title: ''
 date: 2018-12-06T09:29:16+10:00
 weight: 1
-background: 'https://source.unsplash.com/zglUlG8k47I/1600x500'
-align: right
+background: ''
+align: center
 ---
 
-あくしゅはネットワーク分野に注力したソフトウエア技術集団です  得意にしている技術は３つです  分散システム　ネットワーク技術　クラウド技術  あくしゅはソフトウエアエンジニアとインフラエンジニア両方の知識を持ったエンジニアがいる会社です
+
+{{< youtube wRZF2D7NlGA >}}
