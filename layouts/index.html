@@ -43,7 +43,7 @@
     <div class="col-12">
      
     </div>
-    {{ range first 4 (sort $services ".Params.weight") }}
+    {{ range first 3 (sort $services ".Params.weight") }}
     <div class="col-12 col-md-4 mb-1">
       {{ .Render "summary" }}
     </div>
