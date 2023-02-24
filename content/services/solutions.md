@@ -44,4 +44,4 @@ heroBackground: 'services/service2.jpg'
 16. ヤマトシステム開発
 
 
-![代替テキスト](/images/sample.png)
+

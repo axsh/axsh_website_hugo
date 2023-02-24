@@ -5,56 +5,44 @@ icon: 'services/service-icon-1.png'
 draft: false
 featured: true
 weight: 30
-heroHeading: 'Accounting'
-heroSubHeading: 'We offer general accouting on hourly rate or fixed fee'
+heroHeading: 'Careers'
+heroSubHeading: 'あくしゅは、ネットワーク技術に特化したユニークな会社です。日本から世界に技術を発信しつづけたいと考えています。私たちと一緒に夢を追いかけませんか？'
 heroBackground: 'services/service1.jpg'
 ---
 
-人材募集のページです。報酬や休暇など条件面の情報はもとより、会社が欲しい人材などの情報もここに記載されています。
+自分達で作った技術で、世の中を変えたいと思っている人を求めています。  
+株式会社あくしゅで一緒に働きましょう。  
 
 
-Lorem markdownum aequalis strigis. _Saetigeri iubeas_, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
+## 当社が求める人物像
 
-## Ne verba patulosque numen vix libet
+1. 自身の生産性を高めることに興味のあるエンジニアです。
+生産性が高くなると、自分の価値があがります。
+2. 学習意欲とチャレンジ精神を持っているエンジニアです。
+できることを続けることも能力を発揮する意味では重要ですが、できないことをできるようにすることも同様に大切だと考えます。
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+3. 相手に自分の意思が伝わらないことを諦めないエンジニアです。
+多国籍の人々が集まる企業です。言語が異なるだけでなく、考え方も様々です。相手に粘り強くコミュニケーションをすることが大切です。
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+## 働きやすい環境
 
-## Postquam tamen
+コロナ禍でリモートワーク中⼼の働き⽅となり、働きやすさの定義を考え直しました。今までは、海外を含めリモートワークも認めてまいりましたが、あくまでも補助的なものでした。現在は原則リモートワークといたしております。以下のような対応をいたしております。
 
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
 
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
+- パフォーマンス最⼤化のための⽀援は会社の役割であると考え、最新のハイエンドコンピュータや個⼈宅で仕事に必要な家具などを無料・無償で⽀援をします。
 
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
+- 環境として事務所に投資するのではなく、各個⼈宅に投資をする目的で社宅制度を設けています。ご⾃⾝で住む場所を選んでいただき、10万円を上限に半額を会社が負担いたします
 
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.
+
+## 報酬と休暇
+給与は年収500万円が基準です。賞与は会社の業績に合わせて追加で⽀払いをしていま
+す。2021年度は、取締役などを除いた社員だけの平均年収は611万円でした。  
+
+有給休暇は半年で10日です。また特別休暇は年間5日とその年により変動がありますが5日以上の年末年始の休暇があります。当社は個人の生き方を尊重しております。事前に確認を取っていただければ1ヶ月以上の長期休暇も可能です。
+
+        オフィシャル飲み会を行っています！
+
+![This is a image](/images/meeting.png)
+この飲み会はワインバー「Sirocco」で行われます。Sirocco は当社が所有・運営するワインバーです。飲み会では、シェフがすべての料理をと豊富な種類の飲み物（ワイン、ビール、日本酒、ウィスキーなど）を用意しています。おいしい飲み会を一緒に楽しみましょう。 
+
