@@ -5,53 +5,25 @@ icon: "services/service-icon-1.png"
 featured: true
 draft: false
 weight: 100
-heroHeading: 'Services'
-heroSubHeading: 'Services that grow with your business'
-heroBackground: 'services/service1.jpg'
+heroHeading: '沿革物語'
+heroSubHeading: ''
+heroBackground: 'images/story.png'
 ---
 
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
 
-## Ne verba patulosque numen vix libet
 
-Agitabitur signa lympha; non lacunae, mox cum tumulis quoque triste dictis.
-Ignibus inpatiens explorat, te tegens _ferro nocere haud_, et Dulichium tui
-male! Quo sed [fuit flexit et](#vexant-achivi) hic die solido, gloria?
+## 1.起業の勉強のためにNTTデータへ
 
-1. Cum det dixit Parcarum qui spemque est
-2. Exit ex huic
-3. Quod consiste agitataque claustraque vicina videt lacertis
-4. Loquor videt
-5. Ardua non igne caelesti coniugis cognovi diversorum
-6. Per nunc pariterque saeva vindicet
+クラウドコンピューティング向けの高度なソフトウェア開発を行う株式会社あくしゅ（以下、あくしゅ）は、2006年に創業した企業だ。  
 
-Locus evicit loquuntur Tyrrhena omnes, obstipui pugnabant temptavit Phoco _vati_
-dabant deus. Memorata haberet sepulcrales gentisque dum sic, in flumina templa!
-Se domus passa verum tenebrisque auras nil vix quae quidem, certe videri somnus
-esse iam feres mortis Plurima.
+小学校からコンピューターに興味を持っていた山崎は、会津大学の第四期生として入学する。福島県会津若松市に位置するこの大学は、当時日本初のコンピュータ理工学専門の大学として注目を集めていた。  
+在学中、すでに山崎は会津市内の小さなコンピューター会社から仕事を受託し、いくつかのシステム開発を手掛けていた。彼のコンピュータースキルはここで大きく磨かれたが、同時に、コンピュータービジネスの大変さにも気づかされることになる。  
+ 
+高校時代から起業家志向であった山崎だが、現実的にコンピューターの仕事は法人でなければ受注は難しい。いくつもの仕事をこなすなかでそのことに気づいた山崎は、大学6年目まで粘りながら、ついに企業への就職を決意することになる。  
+同級生よりも2年遅れて就職活動をスタートした山崎。しかも当時は買い手市場の、いわゆる就職氷河期であったが、会津大学は非常に就職率が高く、当時でも99％の学生は内定を誇っていた。山崎自身も大手の株式会社NTTデータ（以下、NTTデータ）からの内定を獲得できた。  
+ 
+山崎がNTTデータに就職した理由は他にもあった。当時、山崎の会津大学の先輩もNTTデータに勤務していたが、そこにはプログラムを書けないのにシステムエンジニアとして働いている先輩もいた。山崎はプログラムを書けないのにシステムが作れるのが不思議だった。NTTデータに就職して、その不思議を解明したかったのだ。もう一つは、起業をするために組織の仕組みを学びたいという動機もあったからだ。
+ 
+NTTデータに入社した山崎に課せられた最初の仕事はR&Dだ。この際に得た成果は、今のあくしゅでのビジネスにも活きている。翌年には営業担当となり、今でこそ一般化しているシングルサインオンの制作に携わるようになる。  
+具体的には、大手航空会社のJALから依頼を受け、法人向けのチケット販売を行うJALオンラインとNTTデータの認証システムをつなぐことである。この仕事では、Liberty Alliance(シングルサインオンのコンソーシアム)の情報を活用して開発したシステムによって、企業連携を実現することができた。
 
-## Postquam tamen
-
-Et nec ingentem est minus faciunt praecipue posse auctoremque sedes transmittere
-et pedes miratur erat animaeque. Tellus admonuit humanam funes, sagittis et
-licet! Inserui quamvis Clymeni.
-
-- Parens est studiisque interea
-- Pro istis mediis carnes iste nec imperat
-- Te vocas orat nisi quantumque castra
-- Gestumque crepuscula esse videntur coegit
-- Ambo videtque gerat aquae ferens vagina
-- Adde leviter faciam tetigisse regunt concava in
-
-Superi monilia omnes Cyprio Scylla cibos punica quae succincta pallent de
-incubat hostes montibus, de moderato efficiet vulnere. Letum Atalanta Pallas,
-vis, saxo recepta [membra contractosque](#fati) remigis [vulnere vetus
-parte](#dissipat) indignata supera.
-
-Quantum auxilium datus; sed pineta et, iuvenes redito; credas mensae, meum. Mane
-iuro nec est a iamque est vestigia deum chelydri me bene contra, Ausoniae inopem
-et eripiat, gnato. Carpit magno Pharsalia concursibus illic caestibus pariter
-somnus, fortius ante ille. Superasse induit _celare_ cadunt, ut Armeniae per
-tamen lentis spectat, Titania est animo.

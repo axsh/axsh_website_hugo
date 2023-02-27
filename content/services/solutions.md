@@ -7,10 +7,12 @@ weight: 20
 draft: false
 heroHeading: 'Solutions'
 heroSubHeading: '.'
-heroBackground: 'services/service2.jpg'
+heroBackground: 'images/solution.png'
 ---
 
-ソリューションの紹介ページです。多くの会社様とコラボレーションをおこなってまいりました。その軌跡を紹介いたします。  
+ソリューションの紹介ページです。  
+多くの会社様とコラボレーションをおこなってまいりました。  
+その軌跡を紹介いたします。  
 <br>
 <br>
 

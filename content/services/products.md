@@ -5,16 +5,13 @@ icon: 'services/service-icon-3.png'
 featured: true
 weight: 10
 draft: false
-heroHeading: 'Business Sales'
-heroSubHeading: 'We can help value your business and prepare it for sale.'
-heroBackground: 'services/service1.jpg'
+heroHeading: 'Products'
+heroSubHeading: ''
+heroBackground: 'images/products.png'
 ---
 
 自社製品紹介のページです。DiitalTwin時代の見据えたLiquidMetal商品の紹介をいたします
 
-- Dente reponere dixere referre excessitque seque
-- Tacui si cui inde haec ubi trepidas
-- Coniunx nulla aut
 
 ## Geniti facinus praeruptam atris ab manus in
 
