@@ -3,8 +3,12 @@ title: 'About'
 date: 2018-12-06T09:29:16+10:00
 layout: 'about'
 heroHeading: 'Axsh'
-heroSubHeading: "得意にしている技術は３つです　分散システム　ネットワーク技術　クラウド技術　あくしゅはソフトウエアエンジニアとインフラエンジニア両方の知識を持ったエンジニアがいる会社です。"
-heroBackground: 'https://source.unsplash.com/sO-JmQj95ec/1600x1000'
+heroSubHeading: "あくしゅはネットワーク分野に注力したソフトウエア技術集団です<br>  
+得意にしている技術は３つです  <br>
+分散システム　ネットワーク技術　クラウド技術  <br>
+あくしゅはソフトウエアエンジニアとインフラエンジニア  
+両方の知識を持ったエンジニアがいる会社です"
+heroBackground: 'images/about.png'
 ---
 
 <div>
