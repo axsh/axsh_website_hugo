@@ -11,9 +11,7 @@ heroSubHeading: 'あくしゅで働く社員のインタビューです<br>あ�
 heroBackground: 'services/service1.jpg'
 ---
 
-{{< youtube wRZF2D7NlGA >}}
-{{< youtube wRZF2D7NlGA >}}
-{{< youtube wRZF2D7NlGA >}}
-{{< youtube wRZF2D7NlGA >}}
-{{< youtube wRZF2D7NlGA >}}
-{{< youtube wRZF2D7NlGA >}}
+{{< youtube KCIFa0qcI3c >}}
+{{< youtube 4dblgNkGEjk >}}
+{{< youtube V17lXr6DS0g >}}
+{{< youtube 5ILTlmbF9xk >}}

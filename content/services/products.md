@@ -10,38 +10,28 @@ heroSubHeading: ''
 heroBackground: 'images/products.png'
 ---
 
-自社製品紹介のページです。DiitalTwin時代の見据えたLiquidMetal商品の紹介をいたします
+あくしゅのプロダクトは常に未来を照らしています。
+AWSに先駆けて開発した製品や
+仮想化ネットワークの製品を
+世界に先駆けて開発をしてきました。  
+今新しい潮流であるDigitalTwin向けに
+LiquidMetal 製品群をお届けします。
 
 
-## Geniti facinus praeruptam atris ab manus in
 
-Properas iubar, mercurio regalis caelo Cerberon tetigisset et pervia, maduere
-non _tangere_ tendens corpore sed. Sine genae ominibus cereris, pectebant tum
-[crudelia](#mutavit-lacertos), oscula. Veneris _rumpe tibi_ aliquis paenituisse;
-cum tanti pressus erat _ira magnumque videntem_; fit est misit nec. Est ea
-vacuum Eumelique futurae stringebat facti indicat Hesioneque candore parsque
-patiensque, Perrhaebum **illa**: querenti.
+![This is a image](/images/products3.png)
+## DigitalTwinとLiquidMetal
+弊社はSDNテクノロジに長期的な投資を行ってまいりました。そのSDN技術をもちいて、既に運用している本番環境などの物理ネットワークを仮想ネットワークとして、クローン（DigitalTwin)を作成することを可能にしました。   
+その製品がLiquidMetalTM TwinBuilderです。  
+※ SDN（Software Defined Networking）とは、ソフトウェアを用いてネットワークを制御する技術です。
 
-1. Deum sibi poma lacuque fateor
-2. Nisi vultibus adspicio totosque gladios a novatrix
-3. Regna ducebat
+![This is a image](/images/products1.png)
 
-_Fuit_ eurus promissaque. Faciemque tibi pectore reditum disiecit iam sede
-**foret petebatur** atro, tibi fugienti deus abluit illa, **non**.
 
-## Vidit si probetne vertitur
+## LiquidMetalᵀᴹ製品群
+LiquidMetalᵀᴹ製品群は、DigitalTwinのコンセプトを適用するためのツールとして開発しています。 ネットワーク技術者、システム管理者の方々に、自由に実験検証できる真の本番環境のクローンを提供します。 
 
-In violenta et tamen praeterea populos meorum. Nos carissime Fortuna tellus aevo
-vestigia summae? Ad laedere portentificisque in olentes conbibit animi ad
-iuvenum **inamabile** perosae, **hostis foedantem Rutulos**.
+## LiquidMetalᵀᴹ TwinBuilder
+LiquidMetalᵀᴹ製品群の中核であり、ネットワーク技術者、システム管理者の方々に、自由に実験検証できる真の本番環境コピーを提供 します。このLiquidMetalTM TwinBuilderは、物理16ポート搭載の1Uサーバで提供します。 GUIで自由に仮想ネットワークを構築することができます。 
+{{< youtube JJ24NtsE_Lo >}}
 
-1. Augusta exstinctus dempto repperit ut quati enim
-2. Quae illo sine fatorum
-3. Sub ut Hyadasque specus terraeque coniunx vix
-4. Voce addita est haec
-5. Stagnum pavido sanguine Priamo custodia sed
-
-Iste gente Orpheus sua nec studiosior _et urit certe_ relevare comites vestibus?
-Digredimur _conbibitur citius induruit_ manes pressique Nyctimenen ille comas
-ductae in. Terret solebat misit; gestu erit ora Iunonis sine manus tacuit, carpe
-motibus; opem baculum.
