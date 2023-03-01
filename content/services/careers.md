@@ -10,7 +10,8 @@ heroSubHeading: 'あくしゅは、ネットワーク技術に特化したユニ
 heroBackground: 'services/service1.jpg'
 ---
 
-自分達で作った技術で、世の中を変えたいと思っている人を求めています。  
+自分達で作った技術で  
+世の中を変えたいと思っている人を求めています。  
 株式会社あくしゅで一緒に働きましょう。 
 ### [>社員紹介動画を見る]({{< ref "/services/employee_interview.md" >}})
 
