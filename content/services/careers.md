@@ -50,3 +50,92 @@ heroBackground: 'services/service1.jpg'
 ![This is a image](/images/meeting2.png)
 この飲み会はワインバー「Sirocco」で行われます。Sirocco は当社が所有・運営するワインバーです。飲み会では、シェフの料理と豊富な種類の飲み物（ワイン、ビール、日本酒、ウィスキーなど）を用意しています。おいしい飲み会を一緒に楽しみましょう。 
 
+{{< faq >}}<div class="container margin-top-90">
+  <div class="row">
+    <div class="col-sm-1"></div>
+    <div class="col-sm-10 text-center margin-bottom-90">
+      <h3 class="margin-bottom-60 text-center">よくある質問</h3>
+      <div class="qa-list mts">
+         <dl class="qa">
+            <dt>あくしゅのビジョンについて教えてください。</dt>
+            <dd><p>株式会社あくしゅは「世界を自律的なソフトウェアへと変える」ことを目指します。
+            技術的には、「分散と協調」をテーマにした、大規模で高度なソフトウェア開発を得意とし、昨今のクラウドの流れを、表面的ではなく、技術で支援してきました。
+            大きくは仮想化の技術もそうですが、その中でもコアとなるのはネットワークであり、弊社が注力する分野でもあります。</p></dd>
+          </dl>
+          <dl class="qa">
+            <dt>求める人物像について教えてください。</dt>
+            <dd><sp>
+            1：自身の生産性を高めることに興味のあるエンジニアであること<br>
+            - 生産性こそが全てです。<br>
+            - Hackを歓迎します。<br>
+            2：学習意欲とチャレンジ精神を持っていること<br>
+            - 自分の能力を向上させることに前向きであることは、この業界において重要です。<br>
+            - できることを続けることも能力を発揮する意味では重要ですが、できないことをできるようにすることも同様に大切です。<br>
+            3：相手に自分の意思が伝わらないことを諦めないこと<br>
+            - 多国籍の人々が集まる企業です。言語が異なるだけでなく、考え方も様々です。自分の意思は、思っている以上に相手に伝わっていないと考えることを当たり前としてください。<br>
+            - どんな相手にも粘り強くコミュニケーションをすることが大切です。<br>
+            </sp></dd>
+          </dl>
+          <dl class="qa">
+            <dt>社内はどんな雰囲気ですか？</dt>
+            <dd><p>自由と責任を重んじる社風です。
+            働くメンバーの意思を尊重し、できるだけ働きやすい環境であることに努めています。
+            技術には厳しいかも知れません。
+            これについては時々議論が長引くことがあります。
+            <br>
+            各人は割と好きな言語で会話をする雰囲気です。
+            英語で話しかけて、日本語で答えるようなやり取りが多くあります。</p></dd>
+          </dl>
+          <dl class="qa">
+            <dt>社員人数と平均年齢はどれくらいですか？</dt>
+            <dd><p>年によって異なりますが、人数は大体13-20人前後です。
+            年齢は意図的に集計しないようにしていますので、わかりません。
+            感覚的には平均だと35歳程度ではないでしょうか。</p></dd>
+          </dl>
+          <dl class="qa">
+            <dt>経験があまりないのですが、研修制度はありますか？</dt>
+            <dd><p>いわゆる日本的な明確な研修期間はありません。<br>
+            基本的にはOJTのみです。<br>
+            試用期間は半年となっていますが、試用期間終了時にはお祝い金が出ます。</p></dd>
+          </dl>
+          <dl class="qa">
+            <dt>残業や休日出勤はありますか？</dt>
+            <dd><p>いわゆる会社が命令して行う残業や、休日勤務の依頼はあります。少ないですが、ゼロではありません。<br>
+            代表例で言うと、日曜開催のお客様主催のセミナーへ講師として出席したり、元日しか止められないシステムのリリース対応などです。
+            この場合、代休の相談をさせてもらいながら調整をしています。
+            </p></dd>
+          </dl>
+          <dl class="qa">
+            <dt>副業はできますか？</dt>
+            <dd><p>もちろんOKです。
+            一時的に副業の方が忙しくなる場合は、働き方の融通をすることもできますので、ぜひ相談してください。<br>
+            また、副業がメインとなるような時間の使い方も事前にご相談いただければ調整します。
+            <br>
+            弊社では、同業であるシステム開発の副業もありますし、自分のオープンソースプロジェクトが忙しくなるケースもあります。
+            いずれも本業に影響しない内は問題になりませんが、影響が出る場合にはできるだけ事前にお教えいただければ、我々も考慮した形で対応いたします。</p></dd>
+          </dl>
+          <dl class="qa">
+            <dt>人事評価制度について教えてください。</dt>
+            <dd><p>これまでは、取締役による合議で評価をしており、不透明な部分がありました。<br>
+            メンバー数が少ないので、全体を把握できている内はこれが問題になることはありませんでしたが、今後はプロジェクトへの貢献度を測定する方向に変更していこうと考えています。</p></dd>
+          </dl>
+        </div>
+    </div> 
+    <div class="col-sm-1"></div>
+  </div>
+</div>
+<ul class="faq-list">
+  <li>
+    <h3 class="question">How do I create a new post in Hugo?</h3>
+    <div class="answer">
+      To create a new post in Hugo, you need to follow these steps:
+      <ol>
+        <li>Navigate to the `content/post` directory in your Hugo site.</li>
+        <li>Create a new file with a `.md` extension, using your preferred text editor.</li>
+        <li>Add the necessary front matter to the file, including a `title`, `date`, and optionally a `description`.</li>
+        <li>Write your post content using Markdown syntax.</li>
+        <li>Save the file and run `hugo serve` to preview your post.</li>
+      </ol>
+    </div>
+  </li>
+</ul>
