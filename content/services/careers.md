@@ -10,7 +10,8 @@ heroSubHeading: 'あくしゅは、ネットワーク技術に特化したユニ
 heroBackground: 'services/service1.jpg'
 ---
 
-自分達で作った技術で、世の中を変えたいと思っている人を求めています。  
+自分達で作った技術で  
+世の中を変えたいと思っている人を求めています。  
 株式会社あくしゅで一緒に働きましょう。 
 ### [>社員紹介動画を見る]({{< ref "/services/employee_interview.md" >}})
 
@@ -49,3 +50,19 @@ heroBackground: 'services/service1.jpg'
 ![This is a image](/images/meeting2.png)
 この飲み会はワインバー「Sirocco」で行われます。Sirocco は当社が所有・運営するワインバーです。飲み会では、シェフの料理と豊富な種類の飲み物（ワイン、ビール、日本酒、ウィスキーなど）を用意しています。おいしい飲み会を一緒に楽しみましょう。 
 
+
+{{< faq >}}<ul class="faq">
+  <li>
+    <h3 class="question">How do I create a new post in Hugo?</h3>
+    <div class="answer">
+      To create a new post in Hugo, run the command `hugo new posts/<post-name>.md` in your terminal.
+    </div>
+  </li>
+  <li>
+    <h3 class="question">How do I change the theme in Hugo?</h3>
+    <div class="answer">
+      To change the theme in Hugo, simply replace the contents of the `themes` folder in your Hugo project with the contents of a new theme.
+    </div>
+  </li>
+  <!-- Add more questions and answers as needed -->
+</ul>

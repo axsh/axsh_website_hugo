@@ -32,6 +32,15 @@ LiquidMetal 製品群をお届けします。
 LiquidMetalᵀᴹ製品群は、DigitalTwinのコンセプトを適用するためのツールとして開発しています。 ネットワーク技術者、システム管理者の方々に、自由に実験検証できる真の本番環境のクローンを提供します。 
 
 ## LiquidMetalᵀᴹ TwinBuilder
-LiquidMetalᵀᴹ製品群の中核であり、ネットワーク技術者、システム管理者の方々に、自由に実験検証できる真の本番環境コピーを提供 します。このLiquidMetalTM TwinBuilderは、物理16ポート搭載の1Uサーバで提供します。 GUIで自由に仮想ネットワークを構築することができます。 
+LiquidMetalᵀᴹ製品群の中核であり、ネットワーク技術者、システム管理者の方々に、自由に実験検証できる真の本番環境コピーを提供 します。このLiquidMetalTM TwinBuilderは、物理16ポート搭載の1Uサーバで提供します。 GUIで自由に仮想ネットワークを構築することができます。   
+![This is a image](/images/twinbuilder.png)
+
+物理ポート搭載のため、LiquidMetalTM内で構築された仮想ネットワークに物理ネットワーク機器 を組み込むことができます。 仮想ネットワークの設計情報を保存・再読み込みすることが可能なので再試験などでの再現性を高めています。  
+精度の高いネットワーク構成や設定の事前検証、セキュリティサンドボックスとして の利用など多岐にわたって使用することが可能です。 
+
+## LiquidMetalᵀᴹ TwinBuilderの機能
+![This is a image](/images/function2.png)
 {{< youtube JJ24NtsE_Lo >}}
+
+
 

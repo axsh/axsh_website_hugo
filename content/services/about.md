@@ -67,12 +67,27 @@ heroBackground: 'images/about.png'
 ### [>社員紹介動画を見る]({{< ref "/services/employee_interview.md" >}})
 
 ## Company Information
-会社名　　　   株式会社あくしゅ  
-設立年月日　　　2006年7月20日  
-資本金　　　　　1000万円  
-代表取締役　　　山崎泰宏  
-所在地　　　　　東京都渋谷区千駄ヶ谷3-24-8北参道R1F
-
-
+<!--company box-->
+{{< information >}}<div class="company_box">
+  <div class="container margin-bottom-90">
+    <div class="row">
+    <div class="col-sm-6">
+    <table class="company_list">
+    <tr><th>会社名</th><td>株式会社あくしゅ</td></tr>          
+    <tr><th>設立年月日</th><td>2006/07/20</td></tr>             
+    <tr><th>資本金</th><td>1,000万円</td></tr>                  
+    <tr><th>代表取締役</th><td>山崎泰宏</td></tr>
+    <tr><th>所在地</th><td>東京都渋谷区千駄ヶ谷3-24-8<br>北参道<span style="font-family: /uFF32">R</span> 1F</td></tr>
+    </table>
+    </div>
+    <div class="col-sm-6">
+      <div class="gmap margin-top-60">
+      <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3241.0226008912305!2d139.7055971152874!3d35.676445487841804!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x60188cbe9f933867%3A0xb0aa14065dec069d!2z44CSMTUxLTAwNTEg5p2x5Lqs6YO95riL6LC35Yy65Y2D6aeE44Kx6LC377yT5LiB55uu77yS77yU!5e0!3m2!1sja!2sjp!4v1637055133997!5m2!1sja!2sjp" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+      </div> 
+    </div>
+    </div>
+  </div>  
+</div>
+<!----company box end---->
 
 
