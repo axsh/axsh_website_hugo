@@ -66,5 +66,3 @@ heroBackground: 'services/service1.jpg'
   </li>
   <!-- Add more questions and answers as needed -->
 </ul>
-
-{{< faq >}}
