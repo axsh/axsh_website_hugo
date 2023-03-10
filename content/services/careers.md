@@ -51,18 +51,18 @@ heroBackground: 'services/service1.jpg'
 この飲み会はワインバー「Sirocco」で行われます。Sirocco は当社が所有・運営するワインバーです。飲み会では、シェフの料理と豊富な種類の飲み物（ワイン、ビール、日本酒、ウィスキーなど）を用意しています。おいしい飲み会を一緒に楽しみましょう。 
 
 
-{{< faq >}}<ul class="faq">
-  <li>
-    <h3 class="question">How do I create a new post in Hugo?</h3>
-    <div class="answer">
-      To create a new post in Hugo, run the command `hugo new posts/<post-name>.md` in your terminal.
-    </div>
-  </li>
-  <li>
-    <h3 class="question">How do I change the theme in Hugo?</h3>
-    <div class="answer">
-      To change the theme in Hugo, simply replace the contents of the `themes` folder in your Hugo project with the contents of a new theme.
-    </div>
-  </li>
-  <!-- Add more questions and answers as needed -->
-</ul>
+{{< faq >}}<p>FAQ</p>
+<div class="faq">
+  <div class="question">質問１</div>
+  <div class="content" style="display: none;">
+    <p>答え</p>
+  </div>
+  <div class="question">質問2</div>
+  <div class="content" style="display: none;">
+    <p>答え２</p>
+  </div>
+  <div class="question">質問3</div>
+  <div class="content" style="display: none;">
+    <p>答え３</p>
+  </div>
+</div>
