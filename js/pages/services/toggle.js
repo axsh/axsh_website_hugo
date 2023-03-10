@@ -1,5 +1,9 @@
+console.log('読み込まれてる？')
 const faq = document.querySelector('.faq');
+console.log(faq)
+
 const questions = faq.querySelectorAll('.question');
+console.log(questions)
 questions.forEach(question => {
   question.addEventListener('click', () => {
     this.classList.toggle("active")
