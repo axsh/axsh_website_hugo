@@ -12,7 +12,7 @@ heroBackground: 'images/solution.png'
 
 ソリューションの紹介ページです。  
 多くの会社様とコラボレーションをおこなってまいりました。  
-その軌跡を紹介いたします。  
+その軌跡を紹介いたします。&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
 <br>
 <br>
 

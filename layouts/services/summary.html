@@ -6,8 +6,13 @@
   {{ end }}
   <div class="service-content">
     <h2 class="service-title">
+      <style>
+        h2 {
+            margin-top:  0rem;
+            }
+    </style>
       <a href="{{ .Permalink }}">{{ .Title }}</a>
     </h2>
-    {{ .Content | truncate 58 "" }}
+    {{ .Content | truncate 73 "" }}
   </div>
 </div>
